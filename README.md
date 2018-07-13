@@ -4,7 +4,7 @@
 2018.04
 unittest核心工作原理
 unittest中最核心的四个概念是：test case, test suite, test runner, test fixture。
-https://github.com/joyce0101/UnitTest/blob/master/pics/system.png
-https://github.com/joyce0101/UnitTest/blob/master/pics/1.PNG
-https://github.com/joyce0101/UnitTest/blob/master/pics/2.PNG
-https://github.com/joyce0101/UnitTest/blob/master/pics/3.PNG
+![笔记](https://github.com/joyce0101/UnitTest/blob/master/pics/system.png)
+![笔记](https://github.com/joyce0101/UnitTest/blob/master/pics/1.PNG)
+![笔记](https://github.com/joyce0101/UnitTest/blob/master/pics/2.PNG)
+![笔记](https://github.com/joyce0101/UnitTest/blob/master/pics/3.PNG)
